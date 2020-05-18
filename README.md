@@ -44,6 +44,7 @@ Tutorial by superblaubeere27 thanks.
 
 ## Credits
 - buffer (Idea)
+- LiquidDev (Clazz loader)
 - superblaubeere27 (Contributing tutorial)
 
 ## Dependencies
