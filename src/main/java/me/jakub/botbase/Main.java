@@ -1,7 +1,7 @@
 package me.jakub.botbase;
 
 import lombok.Getter;
-import me.jakub.botbase.events.MessageReceived;
+import me.jakub.botbase.events.MessageReceivedListener;
 import net.dv8tion.jda.core.AccountType;
 import net.dv8tion.jda.core.JDA;
 import net.dv8tion.jda.core.JDABuilder;
@@ -37,6 +37,6 @@ public class Main {
                 .setGame(Game.playing("!help"))
                 .buildBlocking();
 
-        jda.addEventListener(new MessageReceived());
+        jda.addEventListener(new MessageReceivedListener());
     }
 }

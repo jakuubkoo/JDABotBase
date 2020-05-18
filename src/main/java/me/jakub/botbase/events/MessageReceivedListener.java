@@ -15,11 +15,11 @@ import java.util.Set;
  * @author Jakub
  * @since 18/05/2020
  */
-public class MessageReceived extends ListenerAdapter {
+public class MessageReceivedListener extends ListenerAdapter {
 
     private Map<String, ICommand> loadedCommands = new HashMap<>();
 
-    public MessageReceived(){
+    public MessageReceivedListener(){
 
         try {
             Reflections reflections = new Reflections("me.jakub.botbase.command.commands");
