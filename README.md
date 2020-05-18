@@ -1,4 +1,8 @@
-#JDA Discord Bot Base [![Opened Issues](https://img.shields.io/github/issues-raw/jakuubkoo/JDABotBase?label=issues&style=flat-square)](https://github.com/jakuubkoo/JDABotBase/issues) [![Forks](https://img.shields.io/github/forks/jakuubkoo/JDABotBase?label=Fork&style=social)]() [![Last Commit](https://img.shields.io/github/last-commit/jakuubkoo/JDABotBase)]()
+[![Opened Issues](https://img.shields.io/github/issues-raw/jakuubkoo/JDABotBase?label=issues&style=flat-square)](https://github.com/jakuubkoo/JDABotBase/issues) 
+[![Forks](https://img.shields.io/github/forks/jakuubkoo/JDABotBase?label=Fork&style=social)]() 
+[![Last Commit](https://img.shields.io/github/last-commit/jakuubkoo/JDABotBase)]()
+
+# JDA Discord Bot Base
 
 The base for bots who working with the JDA library.
 
