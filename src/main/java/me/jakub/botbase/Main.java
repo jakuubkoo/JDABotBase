@@ -26,7 +26,7 @@ public class Main {
     private final String prefix = "!";
 
     @Getter
-    private final String token = "NDgzOTc3Nzg3MjM4MjUyNTY1.XsFYKg.TsdNoxdxRBLqpQr-QAgpWQPLByk";
+    private final String token = "TOKEN_HERE";
 
     public static JDA jda;
 
